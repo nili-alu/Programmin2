@@ -1,0 +1,7 @@
+
+JDK(Java Development Kit) is a software used to develop Java applications and applets. Also it contains many development tools like compilers, debuggers, etc.
+
+JRE(Java Runtime Environment) is a software bundle that allows the implementation of JVM(Java Virtual Machine) and it is specially designed to run Java programs.
+
+JVM(Java Virtual Machine) is an environment for executing bytecode. Everything Java programs run using JRE or JDK goes into JVM. again  it is responsible for executing the java program line by line, It is commonly known as an interpreter.
+
